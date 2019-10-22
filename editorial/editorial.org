@@ -1,0 +1,26 @@
+#+TITLE: Some Title
+#+SUBTITLE: APSC 377 Editorial
+#+AUTHOR: Jasper Chan - 37467164
+#+DATE: October 22, 2019
+
+#+LATEX_CLASS_OPTIONS: [titlepage]
+#+OPTIONS: toc:nil
+
+#+LATEX_HEADER: \usepackage{natbib}
+
+In a world where nations feel the need to develop nuclear weapons, it is crucial that diplomatic discussions take place to aid in the cancellation of these programs.
+However, when talks slow to a crawl or fall apart altogether, it may be tempting to use a military strike to forcefully terminate nuclear development programs.
+
+citet:zanotti2012israel goes into detail about the options that Israeli forces have to attack Iraqi targets, however the insights from that paper are applicable to any country developing nuclear weapons.
+In order to reach facilities inland without detection or chance for retaliation, an aerial strike is necessary.
+For above ground targets that have not been hardened, most conventional air to surface weapons can be used.
+Ballistic missiles could also be used to reduce the risk for loss of life or aircraft.
+More crucial facilities are often built underground or into a mountain so that the surrounding geology provides significant protection.
+Penetrating these targets would require specialized "bunker-buster" weapons, which increases the cost and complexity of such an endeavor.
+There is also the matter of getting to the target, which is largely dependend on the geography between the two nations, and the attacking nation's ability to cloak their movements.
+
+In addition to the direct disruption of the defending nation's weapons production pipline, citet:kreps2011attacking also idenified other indirect setbacks that can occur as a result of military intervention.
+
+
+bibliographystyle:apalike
+bibliography:editorial.bib
