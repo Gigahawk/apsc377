@@ -1,4 +1,4 @@
-#+TITLE: Some Title
+#+TITLE: The Case Against Using Military Force to Deter Nuclear Weapons Development
 #+SUBTITLE: APSC 377 Editorial
 #+AUTHOR: Jasper Chan - 37467164
 #+DATE: October 22, 2019
@@ -6,21 +6,54 @@
 #+LATEX_CLASS_OPTIONS: [titlepage]
 #+OPTIONS: toc:nil
 
-#+LATEX_HEADER: \usepackage{natbib}
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \usepackage{csquotes}
+#+LATEX_HEADER: \usepackage[notes, backend=biber]{biblatex-chicago}
+#+LATEX_HEADER: \bibliography{editorial}
 
+
+\raggedright
+\setlength\parindent{20pt}
 In a world where nations feel the need to develop nuclear weapons, it is crucial that diplomatic discussions take place to aid in the cancellation of these programs.
 However, when talks slow to a crawl or fall apart altogether, it may be tempting to use a military strike to forcefully terminate nuclear development programs.
 
-citet:zanotti2012israel goes into detail about the options that Israeli forces have to attack Iraqi targets, however the insights from that paper are applicable to any country developing nuclear weapons.
+textcite:zanotti2012israel goes into detail about the options that Israeli forces have to attack Iraqi targets, however the insights from that paper are applicable to any country developing nuclear weapons.
 In order to reach facilities inland without detection or chance for retaliation, an aerial strike is necessary.
 For above ground targets that have not been hardened, most conventional air to surface weapons can be used.
 Ballistic missiles could also be used to reduce the risk for loss of life or aircraft.
 More crucial facilities are often built underground or into a mountain so that the surrounding geology provides significant protection.
 Penetrating these targets would require specialized "bunker-buster" weapons, which increases the cost and complexity of such an endeavor.
-There is also the matter of getting to the target, which is largely dependend on the geography between the two nations, and the attacking nation's ability to cloak their movements.
+There is also the matter of getting to the target, which is largely dependent on the geography between the two nations, and the attacking nation's ability to cloak their movements.
+Under the assumption that a nation would not place all of their research facilities in the same geographical location, multiple strikes would have to occur to significantly damage their nuclear program.
+While it is certainly possible to use military force to destroy nuclear research facilities, the cost to do so would be astronomical.
 
-In addition to the direct disruption of the defending nation's weapons production pipline, citet:kreps2011attacking also idenified other indirect setbacks that can occur as a result of military intervention.
+In addition to the direct disruption of the defending nation's weapons production pipeline, textcite:kreps2011attacking also identified other indirect setbacks that can occur as a result of military intervention.
+This includes changing methods of fissile material production to processes that are harder to detect.
+Of course, a change like this can mean throwing away years of research and development, which would significantly push back development.
+Furthermore, because military action often only occurs as a last resort after diplomacy has failed, it can be a cause for concern to other countries that may be supplying equipment or materials for nuclear research.
+Any equipment that has to be installed would likely require technicians from the supplying country to fly in and stay for the duration of the installation.
+If the defending nation is experiencing attacks, supplying nations would be hesitant to send their own citizens.
+Without external help, a nation's capability to develop nuclear technology is significantly reduced.
+textcite:kreps2011attacking also notes that military attacks would trigger more inspections from the IAEA.
+This would make it challenging for a nation to develop nuclear weapons technology without being detected.
+Notably, these indirect effects would occur even if the attacks themselves failed;
+just the knowledge that an attack on nuclear facilities occurred could be enough to set back a country's nuclear weapons program.
 
+Despite the fact that military strikes would lead to the aforementioned roadblocks to a country's path to nuclear weapons, there are many risks associated with using military strikes to force a nation to comply nuclear nonproliferation demands.
+While nuclear weapons testing can often lead to the harm of civilians by accident or negligence, they can at least theoretically be conducted in a responsible manner.
+However, as textcite:hanley2013human mentions, military attacks on nuclear research facilities has a high potential to release large amounts radioactive material in an uncontrolled manner.
+This could have far reaching and long term effects, especially in countries that may not the resources to respond to the nuclear contamination of civilian areas.
+In countries with terrorist activity, military attacks, especially ones that cause widespread harm may also cause an increase in terrorist attacks and recruitment autocite:jaeger2018drone.
+Attacks that harm civilians could be used as propaganda to recruit more members.
+Furthermore, attacks to nuclear launch facilities could trigger a government to decide to launch their nuclear arsenal before it is entirely destroyed.
+There are also sociopolitical consequences to executing military strikes.
+Resorting to military attacks would further damage relations between nations, potentially killing any future potential for a diplomatic resolution of the conflict.
+In the case of Iran, textcite:guzansky2013response notes that a Israeli attack would further destabilize the Middle East.
+Military attacks may also provoke a nation into increasing their efforts to acquire a nuclear warhead, which ultimately defeats the purpose, even if setbacks are caused.
 
-bibliographystyle:apalike
-bibliography:editorial.bib
+In most cases, the logistics of getting military forces within range of nuclear facilities presents many challenges.
+The defenses that may be employed at these facilities also limits the type of weaponry that could be used to effectively cause damage.
+The casualties that would result from such an attack may be hard to justify especially if the attack is conducted during peace time.
+Assuming a military attack would not be capable of completely annihilating a country's nuclear potential without multiple excursions, it would be inadvisable to use force to restrict a nation's development of nuclear weapons.
+
+\printbibliography
